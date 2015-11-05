@@ -1,0 +1,20 @@
+ASIN
+=Sheet1!A1
+
+TITLE
+=IF(ISERROR(UPPER(SUBSTITUTE(LEFT(Sheet1!B2, SEARCH("(",Sheet1!B2)),"(",""))),UPPER(Sheet1!B2),UPPER(SUBSTITUTE(LEFT(Sheet1!B2, SEARCH("(",Sheet1!B2)),"(","")))
+
+SUBTITLE
+=IF(ISERROR(SUBSTITUTE(RIGHT(Sheet1!B2,LEN(Sheet1!B2)-SEARCH("(",Sheet1!B2,1)),")","")),"",SUBSTITUTE(RIGHT(Sheet1!B2,LEN(Sheet1!B2)-SEARCH("(",Sheet1!B2,1)),")",""))
+
+MEDIA_AUTHOR
+=Sheet1!C2
+
+
+
+
+MEDIA_PUBLISHERS
+=SUBSTITUTE(SUBSTITUTE(Sheet1!F2,"<p>",""),"</p>","")
+
+Review/Description-Editorial Review 1
+=SUBSTITUTE(SUBSTITUTE(Sheet1!G2,"<p>",""),"</p>","")
