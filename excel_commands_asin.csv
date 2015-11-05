@@ -1,0 +1,1 @@
+substitute_html,=SUBSTITUTE(SUBSTITUTE(B24,"<p>",""),"</p>","")
