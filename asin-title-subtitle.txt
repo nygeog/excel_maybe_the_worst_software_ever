@@ -10,7 +10,8 @@ SUBTITLE
 MEDIA_AUTHOR
 =Sheet1!C2
 
-
+DATE
+=CHOOSE(MONTH(E10),"January","February","March","April","May","June","July","August","September","October","November","December")&" "&DAY(E10)&", "&YEAR(E10)
 
 
 MEDIA_PUBLISHERS
