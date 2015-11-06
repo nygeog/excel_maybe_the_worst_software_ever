@@ -1,1 +1,21 @@
-substitute_html,=SUBSTITUTE(SUBSTITUTE(B24,"<p>",""),"</p>","")
+
+
+substitute_html,=SUBSTITUTE(SUBSTITUTE(B24,"<p>",""),"</p>",""),=T1
+
+
+A, B-K
+
+ISBN
+
+B,
+C,
+D,
+E,
+
+
+=UPPER(SUBSTITUTE(SUBSTITUTE(RIGHT(Sheet1!B2,SEARCH("(",Sheet1!B2)),")",""),"(",""))
+
+
+=UPPER(SUBSTITUTE(LEFT(Sheet1!B5, SEARCH("(",Sheet1!B5)),"(",""))
+
+=IF(ISERROR(UPPER(SUBSTITUTE(LEFT(Sheet1!B2, SEARCH("(",Sheet1!B2)),"(","")),Sheet1!B2,UPPER(SUBSTITUTE(LEFT(Sheet1!B2, SEARCH("(",Sheet1!B2)),"(","")))
