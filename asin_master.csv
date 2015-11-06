@@ -1,54 +1,54 @@
-ASIN,Title
-B00VVWB07S,The Restaurant Critic's Wife
-B00YUICLNC,North of Here
-B0142IHZPI,When I'm Gone
-B015NXSI5M,Were We Fall
-B012EZ3OMY,While You Were Mine
-B016A31ZWW,Saving Abby
-B015XWK89M,A House for Happy Mothers
-B017BA9ASO,Edenland
-B017182AQU,The Memory of Us
-B016PX6EZ0,Leaving Blythe River
-B014D613C0,GRAVE OF HUMMINGBIRDS
-TK,NOT COMING SOON TO A MOVIE NEAR YOU
-B00SK1IFMG,BENAZIR BHUTTO: FAVORED DAUGHTER 
-B011URV0VY,ALL THE LASTING THINGS
-B013P22OIU,INTRUSION: A NOVEL
-TK,THINGS ONLY 90S KIDS WOULD KNOW
-TK,YOU HAVE THE RIGHT TO REMAIN INNOCENT
-TK,WE'RE ALL DAMAGED
-TK,MIDAIR
-TK,EMOTIONAL RESCUE
-B015SSKD4Q,AFTER DISASTERS
-B014WBAUDO,PIERCED BY THE SUN
-B01007V9HU,THE KISS ON CASTLE ROAD
-B00Y0PIEZY,KNOWN 
-B014R7CC7A,WORTH THE TROUBLE 
-B012W7BC5K,GHOST GIFTS
-B012CU5RIK,LET IT BREATHE
-B0117SVQRE,THE BILLIONAIRE'S TOUCH 
-B017IKQWAG,WILD MAN'S CURSE
-B0142BVMCW,SUDDENLY IN LOVE 
-B0177XH2IK,DOING IT OVER 
-B017IKQW6U,THE SHARK
-B010V70W9K,CHARMINGLY YOURS 
-TK,BREATH OF MALICE
-B017182AQK,SUMMER IN GOOD HOPE 
-B00UMBGZH4,Terms of Use
-B00WFIM4AE,House of Eight Orchids
-B00YUICLP0,Written in Fire
-B00XT47SOK,The God's Eye View
-B014KVMWQ4,Journey to Death
-B00ZINSL00,Baggage
-B00YXZI2E4,Floodgate
-B011QZWCVW,The Big Fear
-B011UNEZN8,The Last Girl
-B012C6FLFS,Orchids and Stone
-B0146LBFIE,Blood Defense
-B015NXSHWG,The Four Night Run
-B013UVNZ7A,In the Clearing
-B00V7BLU1O,Hannah West: Sleuth in Training (Nancy Pearl's Book Crush Rediscoveries)
-TK,The Typewriter
-B00U6IQF64,"Happy Birthday, Poco Loco! "
-B012P6B53M,"Pipsie, Nature Detective: The Lunch That Left"
-B00N58XLKU,Twenty Yawns
+ASIN,Title,Genre,Hardcover ISBN 13,Paperback ISBN 13,Hardcover Price,Paperback Price,Digital Price,Publicity Contact Name,Publicity Contact Phone,Publicity Contact Email
+B00VVWB07S,The Restaurant Critic's Wife,Contemporary Fiction,9781477817766.0,9781503947757,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00YUICLNC,North of Here,Contemporary Fiction,9781503951242.0,9781503949980,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B0142IHZPI,When I'm Gone,Contemporary Fiction,9781503953383.0,9781503951457,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B015NXSI5M,Were We Fall,Contemporary Fiction,,9781612184432,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B012EZ3OMY,While You Were Mine,Contemporary Fiction,9781503953345.0,9781503952232,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B016A31ZWW,Saving Abby,Contemporary Fiction,,9781503934160,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B015XWK89M,A House for Happy Mothers,Contemporary Fiction,,9781503933316,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B017BA9ASO,Edenland,Contemporary Fiction,,9781503934948,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B017182AQU,The Memory of Us,Contemporary Fiction,,9781503934757,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B016PX6EZ0,Leaving Blythe River,Contemporary Fiction,,9781503934467,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B014D613C0,GRAVE OF HUMMINGBIRDS,Fiction,,9781503952713.0,,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,NOT COMING SOON TO A MOVIE NEAR YOU,Memoir,,,,,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+B00SK1IFMG,BENAZIR BHUTTO: FAVORED DAUGHTER ,Biography,9780544648937.0,,20.0,,5.99,Maggie Sivon,646-722-5049,msivon@amazon.com
+B011URV0VY,ALL THE LASTING THINGS,Fiction,9781511334235.0,9781503951990.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+B013P22OIU,INTRUSION: A NOVEL,Fiction,9781503953062.0,9781503953048.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,THINGS ONLY 90S KIDS WOULD KNOW,Nonfiction,9781503953062.0,,,,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,YOU HAVE THE RIGHT TO REMAIN INNOCENT,Nonfiction,,9781503933392.0,,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,WE'RE ALL DAMAGED,Fiction,9781503933378.0,9781503933385.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,MIDAIR,Fiction,9781503934122.0,9781503934108.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,EMOTIONAL RESCUE,Essays,9781503934986.0,9781503934979.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+B015SSKD4Q,AFTER DISASTERS,Fiction,9781477849996.0,9781477849989.0,24.95,14.95,5.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+B014WBAUDO,PIERCED BY THE SUN,Fiction,,9781503954748.0,,14.95,5.99,Maggie Sivon,646-722-5049,msivon@amazon.com
+B01007V9HU,THE KISS ON CASTLE ROAD,Contemporary Romance ,n/a,9781503949706.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B00Y0PIEZY,KNOWN ,Romantic Suspense,n/a,9781503949478.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B014R7CC7A,WORTH THE TROUBLE ,Contemporary Romance ,n/a,9781503954502.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B012W7BC5K,GHOST GIFTS,Romantic Suspense,n/a,9781503950771.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B012CU5RIK,LET IT BREATHE,Contemporary Romance ,n/a,9781503949553.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B0117SVQRE,THE BILLIONAIRE'S TOUCH ,Contemporary Romance ,n/a,9781503950924.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B017IKQWAG,WILD MAN'S CURSE,Romantic Suspense,n/a,9781503934740.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B0142BVMCW,SUDDENLY IN LOVE ,Contemporary Romance ,n/a,9781503953284.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B0177XH2IK,DOING IT OVER ,Contemporary Romance ,n/a,9781503950726.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B017IKQW6U,THE SHARK,Romantic Suspense,n/a,9781503934474.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B010V70W9K,CHARMINGLY YOURS ,Contemporary Romance ,n/a,9781503949683.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+TK,BREATH OF MALICE,Romantic Suspense,n/a,,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B017182AQK,SUMMER IN GOOD HOPE ,Contemporary Romance ,n/a,9781503934641.0,n/a,12.95,3.99,Kimberly Cowser,206-435-2130,cowserk@amazon.com
+B00UMBGZH4,Terms of Use,Thriller,9781503951501.0,9781503946897,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00WFIM4AE,House of Eight Orchids,Thriller,,9781503948266,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00YUICLP0,Written in Fire,Thriller,,9781477827642,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00XT47SOK,The God's Eye View,Thriller,9781503951518.0,9781503949614,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B014KVMWQ4,Journey to Death,Mystery,,9781503951921,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00ZINSL00,Baggage,Thriller,9781503952201.0,9781503950603,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00YXZI2E4,Floodgate,Thriller,9781503952195.0,9781503950351,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B011QZWCVW,The Big Fear,Thriller,,9781503952225,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B011UNEZN8,The Last Girl,Thriller,,9781503952089,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B012C6FLFS,Orchids and Stone,Thriller,,9781503952324,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B0146LBFIE,Blood Defense,Thriller,,9781503954007,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B015NXSHWG,The Four Night Run,Crime,,9781503933248,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B013UVNZ7A,In the Clearing,Mystery,,9781503953574,,,,Dennelle Catlett,646-722-5021,dcatlett@amazon.com
+B00V7BLU1O,Hannah West: Sleuth in Training (Nancy Pearl's Book Crush Rediscoveries),Childrens,978-1503947165,978-1503946941,17.99,9.99,9.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+TK,The Typewriter,Childrens,978-1477849750,n/a,15.99,n/a,9.99,Maggie Sivon,646-722-5049,msivon@amazon.com
+B00U6IQF64,"Happy Birthday, Poco Loco! ",Childrens,978-1477826386,n /a,15.99,n/a,9.99,Maggie Sivon,646-722-5049,msivon@amazon.com
+B012P6B53M,"Pipsie, Nature Detective: The Lunch That Left",Childrens,978-1503950611,n/a,17.99,n/a,9.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
+B00N58XLKU,Twenty Yawns,Childrens,978-1477826355,n/a,17.99,n/a,9.99,Alexandra Woodworth,646-722-5053,atw@amazon.com
